@@ -48,7 +48,7 @@ class HomeScreen extends StatelessWidget {
         backgroundColor: Color(0XFF1d8b80),
         shape: CircleBorder(),
         child: Icon(
-          Icons.circle_outlined,
+          Icons.copy_all_rounded,
           color: Colors.white,
         ),
       ),
