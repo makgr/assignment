@@ -12,6 +12,7 @@ class HomeScreen extends StatelessWidget {
           style: TextStyle(color: Colors.white),
         ),
         backgroundColor: Color.fromARGB(255, 39, 167, 154),
+        elevation: 8,
         leading: Icon(
           Icons.menu,
           color: Colors.white,
@@ -45,8 +46,9 @@ class HomeScreen extends StatelessWidget {
       floatingActionButton: FloatingActionButton(
         onPressed: () {},
         backgroundColor: Color(0XFF1d8b80),
+        shape: CircleBorder(),
         child: Icon(
-          Icons.world,
+          Icons.circle_outlined,
           color: Colors.white,
         ),
       ),
