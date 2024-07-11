@@ -1,6 +1,12 @@
 # madf3_assignment_1
 
-A new Flutter project.
+Assignment 1: MADF3 Assignment 1
+
+## Output Screenshot
+![Screenshot 2024-07-11 111552](https://github.com/makgr/assignment/assets/19414854/d8c1597e-ec02-4efa-8a2a-61ccd03799c2)
+
+
+![Screenshot 2024-07-11 111534](https://github.com/makgr/assignment/assets/19414854/e29703b2-49d7-4655-b498-6e2702e0f680)
 
 ## Getting Started
 
