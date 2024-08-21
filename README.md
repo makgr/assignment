@@ -1,8 +1,9 @@
 # assignment_4
 
-A new Flutter project.
+## Output screenshot
+![Screenshot 2024-08-22 002520](https://github.com/user-attachments/assets/a74a6c3e-67df-4a88-ac89-72517c8711e1)
 
-## Getting Started
+![Screenshot 2024-08-22 002531](https://github.com/user-attachments/assets/b8c0a4c1-c019-4bd0-88d8-97524daf4469)
 
 This project is a starting point for a Flutter application.
 
